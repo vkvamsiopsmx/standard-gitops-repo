@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ivory-gravity-45734",
+  "private_key_id": "d8713e6b47fd0cc69f016536e5ae4c4a1ec02966",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDm1uHnJ1JzRzps\nEKw+tGZhFwD66Crv98SumionWVe1kky/84iLyBasNDEX66uA3S9G6fcd5NS7LGAj\nuZ8FjxHGhk8UFIobXdeT2t5oyYl9ijQLj5J4JGvFw3OSbA0l9tf5x1i6ykjvGLoN\nfVIwDUEowzPmWWkpgxvhg7O3BCQNAXjnH2tHfcZD+rR3xxVg5aVFnC17vC/0oz8U\nVtwRXJKjLsQm11cfRWPj22v6xMNaRhIHtkWMhUrDrvOle8K3J/518YnHoy2KHcfB\n4hwVhylwywNVb3+DfNqpEuQsLqLlWu69M/6YiNDh5J2xIqoOPq+RdxdGqtnUlMeR\n6K2HsERXAgMBAAECggEAaCHvblMywoYTOMScrvy6Ynn6GzW4iOAAfbNV6MJI6sPA\nk6bMpiHw+GXi76OEjnE47oiEzZt4y6bNB9Coh91ua1wTOD+7vXSr1ysYwbSIrXU2\n3TA7Jq9nXqM484iCtemQrEDdKgYuuI0zAPrTpJGWH0lPlE4pPmzCmwzKeXkIukRg\nOqR8lklOtfRrPFz19RpMkdwZMruDgWo6WLQOHEMZR/8fLa2vffO+l2fJiKQ5cM3+\n7pYQ+LF4Ptta3MqkkHbGJ4G3KIYavO6/PzkJDhiH6NuH+1yszO8n3+4179KrjCD4\nMSisDLSaXxQsoKdeCmzoa5qOaSNlrh6ODIMmWO1a4QKBgQD9zRlo90TjJCEnXCPm\nMDDWSRYVUuwnHe46p0pHe6/YlM6V0NWlrriWK+VzQmO7iYlQjo7XRM7rFTcLEYEL\nxRikmQK6L5inyEI//5d+89DUBhTiprSRtEbwvTsTTJRv1e3eQ6nVjAdKQJyrxcuF\nAgy8iTwNrQfo1AoXfXNpOGyQNQKBgQDo1ttPAnsjfF89FyIJ3l9hQYOtjsbn20Oe\nZTwueQ3ncCbUaX/mMct9yM7th2Mx0iCvWmwwQaoarq3/BXiJwJq9vE5im35sYHsZ\nobsB7pv+DQ7/i3bdyxbWbb9Pw8inGoo5xycxWYhJvcy1yGRaRMz1autj5pVon8yi\nectz7zgr2wKBgQDiyh1EoIAcADLn+vvRO4rIULK9B0YihipUmxxS2AGAJSic0um2\njXRALKVx4wc/k1zycRDO55uGkYSIDXIk1FB69IdtXA6rDtW0Xm4/cRtP+sc66QA9\nmrwxbsaVLj8N2Dof/JKMUf5JqYbWL373Maez6WWSSuXgdWk3KFCy20qXaQKBgD3f\nMkHJj/07BHfQWNw0ejX22c3Z3eMoscw6bIaQ5m/0rmzNaA48dy2CmfImguZvRv4x\n0gP0vwX+GwBkbMZ2Juh6TH4Jgcu8y5lhD7eQt2UIBU9EuR5w5C2w1iCVDxHQjKCT\n2kdT2lJ2HBrGGFygYbJpagmO8W7u38rhAH5bOBr3AoGAB3VgQYpFKN3dJVJ3N3kT\nzEyipmbM11M87ds9AvAUr7jIycsnPDG/r+S4V0wWHlqTofrCvVQjN7840d5ejHG5\na8vKg944PO0QRqGyZo7Lxq9wva6ewASXygKB1MB78hCvjhvuxpU52BC98IRuZnR1\n3FQFS8FVIt3/vtk/p2HguV8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spinnker-hal-svc@ivory-gravity-45734.iam.gserviceaccount.com",
+  "client_id": "114247710986997113858",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spinnker-hal-svc%40ivory-gravity-45734.iam.gserviceaccount.com"
+}
