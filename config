@@ -51,7 +51,7 @@ deploymentConfigurations:
         - "library/nginx"
       primaryAccount: "dockerhub"
     google:
-      enabled: true
+      enabled: false
       accounts:
       - name: spinnaker-gce-account
         requiredGroupMembership: []
