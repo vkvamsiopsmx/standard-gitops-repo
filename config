@@ -52,20 +52,7 @@ deploymentConfigurations:
       primaryAccount: "dockerhub"
     google:
       enabled: false
-      accounts:
-      - name: spinnaker-gce-account
-        requiredGroupMembership: []
-        permissions: {}
-        project: ivory-gravity-45734
-        jsonPath: /tmp/ivory-gravity-45734-d8713e6b47fd.json
-        alphaListed: false
-        imageProjects: []
-        consul:
-          enabled: false
-          agentEndpoint: localhost
-          agentPort: 8500
-          datacenters: []
-      primaryAccount: spinnaker-gce-account
+      accounts: []
     huaweicloud:
       enabled: false
       accounts: []
